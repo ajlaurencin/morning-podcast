@@ -6,7 +6,10 @@
     <link>https://ajlaurencin.github.io/morning-podcast/</link>
     <language>en-gb</language>
     <itunes:author>AJ</itunes:author>
-    <itunes:email>ajlaurencin@gmail.com</itunes:email>
+    <itunes:owner>
+      <itunes:name>AJ</itunes:name>
+      <itunes:email>ajlaurencin@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://ajlaurencin.github.io/morning-podcast/podcast_cover.png"/>
     <image>
       <url>https://ajlaurencin.github.io/morning-podcast/podcast_cover.png</url>
@@ -14,6 +17,13 @@
       <link>https://ajlaurencin.github.io/morning-podcast/</link>
     </image>
     <itunes:category text="News"/>
+    <item>
+      <title>Morning Briefing 2026-03-08</title>
+      <description>Test update to refresh RSS feed</description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 08:46:29 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3</guid>
+    </item>
     <item>
       <title>Morning Briefing 2026-03-08</title>
       <description>Test update to refresh RSS feed</description>
