@@ -19,6 +19,19 @@
     <itunes:category text="News"/>
     <item>
       <title>Morning Briefing 2026-03-08</title>
+      <description>Good morning. It is Saturday, March 7th, 2026. Welcome to your morning briefing.
+
+We begin this morning with extensive coverage of the ongoing conflict in the Middle East and its widening economic impact.
+
+**GEOPOLITICS: THE IRAN CONFLICT**
+
+The conflict with Iran continues to escalate across multiple fronts this morning. According to reporting from The Wall Street Journal, Iranian Supreme Leader Ali Khamenei and his military commanders have activated what is being described as a high-risk, no-l</description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 08:49:26 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3</guid>
+    </item>
+    <item>
+      <title>Morning Briefing 2026-03-08</title>
       <description>Test update to refresh RSS feed</description>
       <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 08:46:29 +0000</pubDate>
