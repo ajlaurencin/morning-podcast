@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Morning Briefing</title>
+    <description>Daily financial news briefing</description>
+    <link>https://ajlaurencin.github.io/morning-podcast/</link>
+    <language>en-gb</language>
+    <itunes:author>Morning Podcast</itunes:author>
+    <itunes:category text="News"/>
+    <item>
+      <title>Morning Briefing 2026-03-08</title>
+      <description>Good morning. Today is Friday, March 7th, 2026. Welcome to your morning briefing.
+
+We begin with the conflict in the Middle East, which continues to dominate global headlines and markets.
+
+Iran has activated what reports describe as a high-risk military strategy designed to continue operations even if top commanders are eliminated. According to reporting from the Wall Street Journal, Iranian Supreme Leader Ali Khamenei and his military commanders implemented what is being called a decentralized </description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 08:12:12 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3</guid>
+    </item>
+    
+  </channel>
+</rss>
