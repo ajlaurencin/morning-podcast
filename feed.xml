@@ -16,6 +16,13 @@
     <itunes:category text="News"/>
     <item>
       <title>Morning Briefing 2026-03-08</title>
+      <description>Test update to refresh RSS feed</description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 08:36:21 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-08.mp3</guid>
+    </item>
+    <item>
+      <title>Morning Briefing 2026-03-08</title>
       <description>Good morning. It is Saturday, March 7th, 2026. Welcome to your morning briefing.
 
 We begin with developments in the Middle East, where the conflict between the United States and Iran continues to shape global markets and geopolitical calculations.
