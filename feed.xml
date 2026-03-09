@@ -18,6 +18,15 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-03-09</title>
+      <description>Good morning. Today is Monday, March 10th, 2026. Welcome to your morning market briefing.
+
+We begin with the dominant story affecting global markets: the ongoing military conflict in the Persian Gulf. US and Israeli forces continue conducting airstrikes on Iranian targets, with Tehran's historic capital sustaining significant damage from thousands of munitions. Israeli strikes on fuel storage facilities have prompted Iranian authorities to reduce fuel allowances for motorists and issue warnings </description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-09.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 05:25:30 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-09.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-08</title>
       <description>Good morning. Today is Friday, March 7th, 2026. Welcome to your morning market briefing.
 
