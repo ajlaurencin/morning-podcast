@@ -19,6 +19,17 @@
     <itunes:category text="News"/>
     <item>
       <title>Morning Briefing 2026-03-09</title>
+      <description>Good morning. Today is Monday, March 10th, 2026. Welcome to your morning financial briefing.
+
+We begin with the developing situation in the Middle East, where the ongoing conflict between the United States, Israel, and Iran continues to dominate headlines and move markets.
+
+The U.S.-Israeli air campaign against Iran is now in its second week, with Israeli strikes targeting fuel storage facilities in Tehran. Iranian authorities have responded by cutting motorists' fuel allowances at the pump and </description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-09.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 05:25:40 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-09.mp3</guid>
+    </item>
+    <item>
+      <title>Morning Briefing 2026-03-09</title>
       <description>Good morning. Today is Monday, March 10th, 2026. Welcome to your morning market briefing.
 
 We begin with the dominant story affecting global markets: the ongoing military conflict in the Persian Gulf. US and Israeli forces continue conducting airstrikes on Iranian targets, with Tehran's historic capital sustaining significant damage from thousands of munitions. Israeli strikes on fuel storage facilities have prompted Iranian authorities to reduce fuel allowances for motorists and issue warnings </description>
