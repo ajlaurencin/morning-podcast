@@ -18,6 +18,17 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-03-10</title>
+      <description>Good morning. It is Monday, March 9th, 2026. Welcome to your morning market briefing.
+
+We begin with the dominant story affecting global markets: the ongoing military conflict between the United States, Israel, and Iran, now entering its second week.
+
+Oil prices have climbed above one hundred dollars per barrel following disruptions to shipping traffic through the Strait of Hormuz. This represents what analysts are describing as the most severe shock to energy markets since the 1970s. The disrup</description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-10.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2026 05:17:51 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-10.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-09</title>
       <description>Good morning. Today is Monday, March 10th, 2026. Welcome to your morning financial briefing.
 
