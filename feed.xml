@@ -18,6 +18,15 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-03-12</title>
+      <description>Good morning. Today is Tuesday, March 11th, 2026. Welcome to your morning market briefing.
+
+We begin with the major story driving global energy markets this morning. The International Energy Agency has proposed the largest release of oil reserves in its history. This coordinated action aims to bring down crude prices that have surged during the ongoing conflict between the United States, Israel, and Iran. The proposed release exceeds any previous IEA intervention, including those during the Gulf</description>
+      <enclosure url="https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-12.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 05:22:31 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-12.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-11</title>
       <description>Good morning. It is Tuesday, March 10th, 2026. Welcome to your morning financial briefing.
 
